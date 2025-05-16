@@ -1,7 +1,4 @@
-# doc_encryption
-Simple and easy to use document encryption app that uses Fernet Cryptography.
-
-doc_encryption.py is an application that allows you to encrypt/decrypt documents locally, you may encrypt documents with three different methods:
+doc_encryption.py is a script that allows you to encrypt/decrypt documents locally, you may encrypt documents with three different methods:
 
     - Total Encryption: It generates just one token for all the document, encrypting the document as a whole;
 
